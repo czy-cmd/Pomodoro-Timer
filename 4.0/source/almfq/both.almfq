@@ -1,0 +1,15 @@
+# ============================================
+# 冲突规则：dark + boost 两个都生效
+# ============================================
+
+# 加载顺序：先 dark，后 boost
+let dark.fqm boost.fqm
+
+# string 类：1~2 个都取最后一个（boost 覆盖 dark）
+class string last,last
+
+# number 类：1~2 个取最大（45 分钟 > 默认 25）
+class number big,middle
+
+# color 类：1~2 个取最后一个（boost 暖色覆盖 dark）
+class color last,last

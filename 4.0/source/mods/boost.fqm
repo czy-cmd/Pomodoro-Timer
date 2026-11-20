@@ -1,0 +1,21 @@
+# ============================================
+# 增强学习
+# 作者：书虫
+# 说明：拉长番茄节奏，适合深度学习
+# ============================================
+
+title:"深度专注"
+beta:"Boost"
+author:"书虫"
+desc:"45 分钟一段，进入心流。"
+
+# 拉长节奏
+study_time:45
+break_time:10
+long_break_time:25
+simple_pomodoro_time:45
+
+# 换暖色调
+color_primary:"#e74c3c"
+color_accent:"#e67e22"
+color_timer:"#2c3e50"
