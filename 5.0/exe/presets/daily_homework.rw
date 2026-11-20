@@ -1,0 +1,24 @@
+# 每日作业
+# Python 风格预设，mod=py，版本 ver=3
+# e=学习：没写分类的任务自动归到「学习」
+
+mod=py
+ver=3
+ext=true
+e=学习
+name=每日作业
+author=CZY
+dup=ask
+
+
+preset("每日作业") {
+    task(title="小题狂做 · 英语附册EX5", subject="英语")
+    task(title="小题狂做 · 英语U4-1", subject="英语")
+    task(title="小题狂做 · 数学巅峰训练10", subject="数学")
+    task(title="小题狂做 · 语文第6练", subject="语文")
+    task(title="读西游记第5回", subject="语文")
+    task(title="同步练习数学1.1", subject="数学")
+    task(title="背诵45个单词，并整理成单词列表", subject="英语")
+    task(title="做一道压轴题", subject="数学")
+    task(title="学校不写·英语U1.1", subject="英语")
+}

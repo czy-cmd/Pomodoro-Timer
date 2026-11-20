@@ -1,0 +1,97 @@
+﻿<div style="background:#fff3cd;color:#856404;border:1px solid #ffeeba;padding:10px;margin:10px;font-weight:bold;">版本存在BUG，不建议作为主要应用，建议使用4.2-Orbit2</div>
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>番茄钟5.0（Orbit 3）</title>
+<style>
+  body { font-family: "Microsoft YaHei", sans-serif; max-width: 820px;
+         margin: 0 auto; padding: 32px 24px; color: #2c3e50;
+         background: #f8fafb; line-height: 1.7; }
+  h1 { color: #27ae60; border-bottom: 3px solid #2ecc71; padding-bottom: 10px; }
+  h2 { color: #1e8449; margin-top: 32px; }
+  .card { background: #fff; border-radius: 10px; padding: 16px 20px;
+          margin: 12px 0; box-shadow: 0 1px 4px rgba(0,0,0,.06); }
+  .tag { display: inline-block; padding: 2px 10px; border-radius: 12px;
+         font-size: 13px; color: #fff; margin-right: 6px; }
+  .normal { background: #95a5a6; } .pro { background: #2ecc71; }
+  .ultra { background: #9b59b6; }
+  code { background: #eef2f5; padding: 1px 6px; border-radius: 4px;
+         font-family: Consolas, monospace; font-size: 13px; }
+  ul { margin: 6px 0; } li { margin: 4px 0; }
+  .muted { color: #95a5a6; font-size: 13px; }
+</style>
+</head>
+<body>
+<h1>🍅 番茄钟5.0 <span style="font-size:18px;color:#95a5a6">Orbit 3</span></h1>
+<p class="muted">番茄钟 4.2（Orbit 2）的全面升级版：合并了任务管理器、鼠标检测器，并新增小功能、开发者模式、附件系统等。</p>
+
+<h2>三个版本</h2>
+<div class="card">
+  <p><span class="tag normal">普通版</span> 番茄钟 + 任务管理器 + 内存优化（一键回收）。最简洁，适合只想专注的人。</p>
+  <p><span class="tag pro">Pro 版</span> 普通版 + 小功能（鼠标检测器 / 音乐 / 倒计时纪念日 / 随机决定器）+ 开发者模式 + 多开。</p>
+  <p><span class="tag ultra">Ultra 版</span> Pro 版 + 附件系统（3 个可下载小工具）+ HTML 更新日志 + 更详细的崩溃日志。<b>测试版，可能有 BUG。</b></p>
+</div>
+
+<h2>主要功能</h2>
+<div class="card">
+<ul>
+  <li><b>学习模式</b>：经典番茄钟，专注 / 休息循环</li>
+  <li><b>任务管理器</b>：管理学习任务，支持「努力的我」锁定标签、预设、多选</li>
+  <li><b>小功能</b>：鼠标检测器（专注/瞎玩计时）、音乐（自定义网址）、倒计时/纪念日、随机决定器</li>
+  <li><b>内存优化</b>：一键回收内存（所有版本）；常驻内存显示、定时回收（Pro/Ultra 开发者设置）</li>
+  <li><b>开发者模式</b>（Pro/Ultra）：连点大标题 8 下开启，含功能开关、崩溃日志、数据工具、多开等</li>
+  <li><b>附件系统</b>（Ultra）：附件修改器、预设管理器、数据备份工具</li>
+</ul>
+</div>
+
+<h2>数据与保存</h2>
+<div class="card">
+<p>所有数据统一保存在程序目录下的 <code>Orbit3_data.json</code>。</p>
+<ul>
+  <li>退出程序时<b>自动保存</b></li>
+  <li>每隔一段时间<b>自动保存</b>（间隔可在设置里改）</li>
+  <li>极简模式中途退出会<b>结算已学习的时间</b>，不浪费</li>
+</ul>
+</div>
+
+<h2>开发者模式（Pro / Ultra）</h2>
+<div class="card">
+<p>在主界面连续点击大标题 <b>8 下</b> 开启，再点 8 下关闭。开启后主菜单出现「开发者模式」按钮。</p>
+<ul>
+  <li>功能开关：模式 / 任务管理器 / 小功能 / mod / 允许删除「努力的我」/ 多开</li>
+  <li>开发者源码展示、崩溃日志传输与分析、数据与存档工具、诊断面板、界面调试</li>
+  <li>内存占用显示、定时自动内存优化、更新日志显示方式切换</li>
+</ul>
+</div>
+
+<h2>附件系统（Ultra）</h2>
+<div class="card">
+<p>主菜单「附件系统」里可下载 3 个独立小工具到 <code>attachments</code> 文件夹：</p>
+<ul>
+  <li><b>自定义附件修改器</b>：类似 IDE，编辑 rw / fqm / almfq 文件，带常用字符插入</li>
+  <li><b>预设文件管理器</b>：浏览、新建、编辑 .rw 预设文件</li>
+  <li><b>数据备份工具</b>：一键备份 / 恢复 Orbit3_data.json</li>
+</ul>
+</div>
+
+<h2>更新日志</h2>
+<div class="card">
+<ul>
+  <li><b>Orbit3 / Orbit 3</b>：三版本（普通 / Pro / Ultra）</li>
+  <li>三合一：番茄钟 4.2 + 任务管理器 3.0 + 鼠标检测器</li>
+  <li>小功能：鼠标检测器 / 音乐（自定义网址）/ 倒计时纪念日 / 随机决定器</li>
+  <li>任务标签：正常学习 / 努力的我（创建即锁定）</li>
+  <li>预设：单击选中 / 双击应用 / 右键修改 / 单选多选</li>
+  <li>保存系统：退出自动保存 + 定时自动保存 + 极简模式结算</li>
+  <li>内存优化：一键回收 / 常驻显示 / 定时回收</li>
+  <li>多开（Pro/Ultra）：可同时开多个窗口，支持隐藏窗口</li>
+  <li>附件系统（Ultra）：3 个可下载小工具</li>
+  <li>更新日志支持 HTML 阅读（Ultra，可切回 tk 窗口）</li>
+</ul>
+</div>
+
+<p class="muted" style="margin-top:40px;text-align:center">番茄钟5.0 · Orbit 3 · 作者 CZY</p>
+</body>
+</html>

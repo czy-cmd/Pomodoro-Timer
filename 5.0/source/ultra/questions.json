@@ -1,0 +1,782 @@
+[
+  {
+    "grade": 7,
+    "question": "解方程：5x + 11 = 3x + 15",
+    "answer": "2",
+    "solution": "移项得 2x = 4，x = 2"
+  },
+  {
+    "grade": 7,
+    "question": "已知 |x - 6| = 9，求 x 的所有可能值之和。",
+    "answer": "12",
+    "solution": "x = 6±9，即 15 和 -3，和为 12"
+  },
+  {
+    "grade": 7,
+    "question": "数轴上点 A 表示的数为 -7，点 P 从 A 出发以每秒 3 个单位的速度向右运动，3 秒后点 P 表示的数是多少？",
+    "answer": "2",
+    "solution": "-7 + 3×3 = 2"
+  },
+  {
+    "grade": 7,
+    "question": "∠α 的余角为 54°，则 ∠α 的补角是多少度？（只填数字）",
+    "answer": "144",
+    "solution": "∠α = 90°-54° = 36°，补角 = 180°-36° = 144°"
+  },
+  {
+    "grade": 7,
+    "question": "计算：(-6)² - 6 × 4 + |-1| × 0 的结果。",
+    "answer": "12",
+    "solution": "36 - 24 + 0 = 12"
+  },
+  {
+    "grade": 7,
+    "question": "甲、乙两车同时从 A 地出发同向而行，甲速 57 km/h，乙速 63 km/h，3 小时后两车相距多少千米？",
+    "answer": "18",
+    "solution": "速度差 6 km/h × 3 h = 18 km"
+  },
+  {
+    "grade": 7,
+    "question": "观察规律：4，7，10，13，… 第 10 个数是多少？",
+    "answer": "31",
+    "solution": "第 n 个数为 3n+1，n=10 时为 31"
+  },
+  {
+    "grade": 7,
+    "question": "线段 AB 长 11 cm，点 C 在 AB 上且 AC:CB = 3:1，求 AC 的长（cm）。",
+    "answer": "33/4",
+    "solution": "AC = 11×3/4 = 33/4 cm"
+  },
+  {
+    "grade": 8,
+    "question": "直角三角形两条直角边分别为 9 和 12，斜边长是多少？",
+    "answer": "15",
+    "solution": "√(9²+12²) = 15"
+  },
+  {
+    "grade": 8,
+    "question": "先因式分解再求值：x² - 12x + 36，其中 x = 2。",
+    "answer": "16",
+    "solution": "(x-6)(x-6) = (2-6)(2-6) = 16"
+  },
+  {
+    "grade": 8,
+    "question": "解分式方程：1/(x-4) = 1",
+    "answer": "5",
+    "solution": "x-4 = 1，x = 5（经检验是原方程的解）"
+  },
+  {
+    "grade": 8,
+    "question": "一次函数 y = 1x + 2 的图象与 x 轴、y 轴分别交于 A、B 两点，求三角形 AOB 的面积（O 为原点）。",
+    "answer": "2",
+    "solution": "A(-2,0)，B(0,2)，S = ½×2×2 = 2"
+  },
+  {
+    "grade": 8,
+    "question": "化简：√(63) - √7 × 2（结果保留根号，写成 m√7 的形式，只填 m）",
+    "answer": "1",
+    "solution": "√(63) = 3√7，3√7 - 2√7 = √7，m = 1"
+  },
+  {
+    "grade": 8,
+    "question": "已知 x + y = 7，xy = 12，且 x > y，求 x - y。",
+    "answer": "1",
+    "solution": "(x-y)² = (x+y)²-4xy = 49-48 = 1，x-y = 1"
+  },
+  {
+    "grade": 8,
+    "question": "正方形 ABCD 边长为 10，E 为 CD 中点，连接 BE。已知 BE = 10√5/2，求 BE² 的值。",
+    "answer": "125",
+    "solution": "CE = 10/2，BE² = 10²+(10/2)² = 125"
+  },
+  {
+    "grade": 8,
+    "question": "反比例函数 y = 2/x 的图象经过点 (6, m)，求 m。",
+    "answer": "1/3",
+    "solution": "m = 2/6 = 1/3"
+  },
+  {
+    "grade": 9,
+    "question": "二次函数 y = x² - 6x + 3 的顶点坐标为 (h, k)，求 h + k。",
+    "answer": "-9",
+    "solution": "h = -3，k = -6，h+k = -9"
+  },
+  {
+    "grade": 9,
+    "question": "关于 x 的一元二次方程 x² - 1x + k = 0 有两个相等实数根，求 k。",
+    "answer": "5/4",
+    "solution": "Δ = 1 - 4k = 0，k = 5/4"
+  },
+  {
+    "grade": 9,
+    "question": "设 x₁、x₂ 是方程 x² - 4x + 2 = 0 的两根，求 x₁² + x₂² 的值。",
+    "answer": "12",
+    "solution": "x₁²+x₂² = (x₁+x₂)²-2x₁x₂ = 16-4 = 12"
+  },
+  {
+    "grade": 9,
+    "question": "袋中有 4 个红球、2 个白球，不放回地摸出 2 个球，求两个都是红球的概率。",
+    "answer": "2/5",
+    "solution": "P = (4/6)×(3/5) = 2/5"
+  },
+  {
+    "grade": 9,
+    "question": "半径为 3 的圆中，90° 的圆心角所对的弧长是 90π·3/180，化简后填系数（π 前的数）。",
+    "answer": "3/2",
+    "solution": "l = 90π×3/180 = 3/2π"
+  },
+  {
+    "grade": 9,
+    "question": "两个相似三角形的相似比为 3:4，小三角形面积为 81，求大三角形面积。",
+    "answer": "144",
+    "solution": "面积比 = 9:16，S大 = 81×16/9 = 144"
+  },
+  {
+    "grade": 9,
+    "question": "二次函数 y = -2(x - 5)² + 7 的最大值是多少？",
+    "answer": "7",
+    "solution": "开口向下，顶点 (5, 7)，最大值为 7"
+  },
+  {
+    "grade": 9,
+    "question": "点 A(m, 2) 在反比例函数 y = 20/x 的图象上，求 m。",
+    "answer": "10",
+    "solution": "2 = 20/m，m = 10"
+  },
+  {
+    "grade": 7,
+    "question": "解方程：5x + 1 = 9x + 19",
+    "answer": "-9/2",
+    "solution": "移项得 -4x = 18，x = -9/2"
+  },
+  {
+    "grade": 7,
+    "question": "已知 |x - 7| = 4，求 x 的所有可能值之和。",
+    "answer": "14",
+    "solution": "x = 7±4，即 11 和 3，和为 14"
+  },
+  {
+    "grade": 7,
+    "question": "数轴上点 A 表示的数为 -5，点 P 从 A 出发以每秒 2 个单位的速度向右运动，4 秒后点 P 表示的数是多少？",
+    "answer": "3",
+    "solution": "-5 + 2×4 = 3"
+  },
+  {
+    "grade": 7,
+    "question": "∠α 的余角为 48°，则 ∠α 的补角是多少度？（只填数字）",
+    "answer": "138",
+    "solution": "∠α = 90°-48° = 42°，补角 = 180°-42° = 138°"
+  },
+  {
+    "grade": 7,
+    "question": "计算：(-3)² - 6 × 8 + |39| × 0 的结果。",
+    "answer": "-39",
+    "solution": "9 - 48 + 0 = -39"
+  },
+  {
+    "grade": 7,
+    "question": "甲、乙两车同时从 A 地出发同向而行，甲速 46 km/h，乙速 52 km/h，2 小时后两车相距多少千米？",
+    "answer": "12",
+    "solution": "速度差 6 km/h × 2 h = 12 km"
+  },
+  {
+    "grade": 7,
+    "question": "观察规律：7，11，15，19，… 第 10 个数是多少？",
+    "answer": "43",
+    "solution": "第 n 个数为 4n+3，n=10 时为 43"
+  },
+  {
+    "grade": 7,
+    "question": "线段 AB 长 17 cm，点 C 在 AB 上且 AC:CB = 1:1，求 AC 的长（cm）。",
+    "answer": "17/2",
+    "solution": "AC = 17×1/2 = 17/2 cm"
+  },
+  {
+    "grade": 8,
+    "question": "先因式分解再求值：x² - 9x + 18，其中 x = 3。",
+    "answer": "0",
+    "solution": "(x-6)(x-3) = (3-6)(3-3) = 0"
+  },
+  {
+    "grade": 8,
+    "question": "解分式方程：2/(x-5) = 1",
+    "answer": "7",
+    "solution": "x-5 = 2，x = 7（经检验是原方程的解）"
+  },
+  {
+    "grade": 8,
+    "question": "一次函数 y = 1x + 6 的图象与 x 轴、y 轴分别交于 A、B 两点，求三角形 AOB 的面积（O 为原点）。",
+    "answer": "18",
+    "solution": "A(-6,0)，B(0,6)，S = ½×6×6 = 18"
+  },
+  {
+    "grade": 8,
+    "question": "化简：√(175) - √7 × 4（结果保留根号，写成 m√7 的形式，只填 m）",
+    "answer": "1",
+    "solution": "√(175) = 5√7，5√7 - 4√7 = √7，m = 1"
+  },
+  {
+    "grade": 8,
+    "question": "已知 x + y = 16，xy = 64，且 x > y，求 x - y。",
+    "answer": "0",
+    "solution": "(x-y)² = (x+y)²-4xy = 256-256 = 0，x-y = 0"
+  },
+  {
+    "grade": 8,
+    "question": "正方形 ABCD 边长为 4，E 为 CD 中点，连接 BE。已知 BE = 4√5/2，求 BE² 的值。",
+    "answer": "20",
+    "solution": "CE = 4/2，BE² = 4²+(4/2)² = 20"
+  },
+  {
+    "grade": 8,
+    "question": "反比例函数 y = 11/x 的图象经过点 (5, m)，求 m。",
+    "answer": "11/5",
+    "solution": "m = 11/5 = 11/5"
+  },
+  {
+    "grade": 9,
+    "question": "二次函数 y = x² - 4x + 7 的顶点坐标为 (h, k)，求 h + k。",
+    "answer": "1",
+    "solution": "h = -2，k = 3，h+k = 1"
+  },
+  {
+    "grade": 9,
+    "question": "关于 x 的一元二次方程 x² - 5x + k = 0 有两个相等实数根，求 k。",
+    "answer": "29/4",
+    "solution": "Δ = 25 - 4k = 0，k = 29/4"
+  },
+  {
+    "grade": 9,
+    "question": "设 x₁、x₂ 是方程 x² - 4x + 7 = 0 的两根，求 x₁² + x₂² 的值。",
+    "answer": "2",
+    "solution": "x₁²+x₂² = (x₁+x₂)²-2x₁x₂ = 16-14 = 2"
+  },
+  {
+    "grade": 9,
+    "question": "袋中有 3 个红球、3 个白球，不放回地摸出 2 个球，求两个都是红球的概率。",
+    "answer": "1/5",
+    "solution": "P = (3/6)×(2/5) = 1/5"
+  },
+  {
+    "grade": 9,
+    "question": "半径为 3 的圆中，30° 的圆心角所对的弧长是 30π·3/180，化简后填系数（π 前的数）。",
+    "answer": "1/2",
+    "solution": "l = 30π×3/180 = 1/2π"
+  },
+  {
+    "grade": 9,
+    "question": "两个相似三角形的相似比为 1:2，小三角形面积为 2，求大三角形面积。",
+    "answer": "8",
+    "solution": "面积比 = 1:4，S大 = 2×4/1 = 8"
+  },
+  {
+    "grade": 9,
+    "question": "二次函数 y = -3(x - 5)² + 9 的最大值是多少？",
+    "answer": "9",
+    "solution": "开口向下，顶点 (5, 9)，最大值为 9"
+  },
+  {
+    "grade": 9,
+    "question": "点 A(m, 2) 在反比例函数 y = 14/x 的图象上，求 m。",
+    "answer": "7",
+    "solution": "2 = 14/m，m = 7"
+  },
+  {
+    "grade": 7,
+    "question": "解方程：4x + 9 = 8x + 2",
+    "answer": "7/4",
+    "solution": "移项得 -4x = -7，x = 7/4"
+  },
+  {
+    "grade": 7,
+    "question": "已知 |x - 5| = 9，求 x 的所有可能值之和。",
+    "answer": "10",
+    "solution": "x = 5±9，即 14 和 -4，和为 10"
+  },
+  {
+    "grade": 7,
+    "question": "数轴上点 A 表示的数为 -2，点 P 从 A 出发以每秒 5 个单位的速度向右运动，6 秒后点 P 表示的数是多少？",
+    "answer": "28",
+    "solution": "-2 + 5×6 = 28"
+  },
+  {
+    "grade": 7,
+    "question": "∠α 的余角为 47°，则 ∠α 的补角是多少度？（只填数字）",
+    "answer": "137",
+    "solution": "∠α = 90°-47° = 43°，补角 = 180°-43° = 137°"
+  },
+  {
+    "grade": 7,
+    "question": "计算：(-5)² - 7 × 3 + |-1| × 0 的结果。",
+    "answer": "4",
+    "solution": "25 - 21 + 0 = 4"
+  },
+  {
+    "grade": 7,
+    "question": "甲、乙两车同时从 A 地出发同向而行，甲速 57 km/h，乙速 76 km/h，3 小时后两车相距多少千米？",
+    "answer": "57",
+    "solution": "速度差 19 km/h × 3 h = 57 km"
+  },
+  {
+    "grade": 7,
+    "question": "观察规律：5，8，11，14，… 第 10 个数是多少？",
+    "answer": "32",
+    "solution": "第 n 个数为 3n+2，n=10 时为 32"
+  },
+  {
+    "grade": 7,
+    "question": "线段 AB 长 11 cm，点 C 在 AB 上且 AC:CB = 2:1，求 AC 的长（cm）。",
+    "answer": "22/3",
+    "solution": "AC = 11×2/3 = 22/3 cm"
+  },
+  {
+    "grade": 8,
+    "question": "直角三角形两条直角边分别为 6 和 8，斜边长是多少？",
+    "answer": "10",
+    "solution": "√(6²+8²) = 10"
+  },
+  {
+    "grade": 8,
+    "question": "先因式分解再求值：x² - 8x + 12，其中 x = 2。",
+    "answer": "0",
+    "solution": "(x-6)(x-2) = (2-6)(2-2) = 0"
+  },
+  {
+    "grade": 8,
+    "question": "解分式方程：5/(x-4) = 1",
+    "answer": "9",
+    "solution": "x-4 = 5，x = 9（经检验是原方程的解）"
+  },
+  {
+    "grade": 8,
+    "question": "一次函数 y = 2x + 5 的图象与 x 轴、y 轴分别交于 A、B 两点，求三角形 AOB 的面积（O 为原点）。",
+    "answer": "25/4",
+    "solution": "A(-5/2,0)，B(0,5)，S = ½×5/2×5 = 25/4"
+  },
+  {
+    "grade": 8,
+    "question": "化简：√(252) - √7 × 5（结果保留根号，写成 m√7 的形式，只填 m）",
+    "answer": "1",
+    "solution": "√(252) = 6√7，6√7 - 5√7 = √7，m = 1"
+  },
+  {
+    "grade": 8,
+    "question": "已知 x + y = 14，xy = 48，且 x > y，求 x - y。",
+    "answer": "2",
+    "solution": "(x-y)² = (x+y)²-4xy = 196-192 = 4，x-y = 2"
+  },
+  {
+    "grade": 8,
+    "question": "正方形 ABCD 边长为 8，E 为 CD 中点，连接 BE。已知 BE = 8√5/2，求 BE² 的值。",
+    "answer": "80",
+    "solution": "CE = 8/2，BE² = 8²+(8/2)² = 80"
+  },
+  {
+    "grade": 8,
+    "question": "反比例函数 y = 7/x 的图象经过点 (6, m)，求 m。",
+    "answer": "7/6",
+    "solution": "m = 7/6 = 7/6"
+  },
+  {
+    "grade": 9,
+    "question": "二次函数 y = 2x² - 8x + 6 的顶点坐标为 (h, k)，求 h + k。",
+    "answer": "-4",
+    "solution": "h = -2，k = -2，h+k = -4"
+  },
+  {
+    "grade": 9,
+    "question": "关于 x 的一元二次方程 x² - 2x + k = 0 有两个相等实数根，求 k。",
+    "answer": "2",
+    "solution": "Δ = 4 - 4k = 0，k = 2"
+  },
+  {
+    "grade": 9,
+    "question": "设 x₁、x₂ 是方程 x² - 2x + 3 = 0 的两根，求 x₁² + x₂² 的值。",
+    "answer": "-2",
+    "solution": "x₁²+x₂² = (x₁+x₂)²-2x₁x₂ = 4-6 = -2"
+  },
+  {
+    "grade": 9,
+    "question": "袋中有 4 个红球、4 个白球，不放回地摸出 2 个球，求两个都是红球的概率。",
+    "answer": "3/14",
+    "solution": "P = (4/8)×(3/7) = 3/14"
+  },
+  {
+    "grade": 9,
+    "question": "半径为 7 的圆中，120° 的圆心角所对的弧长是 120π·7/180，化简后填系数（π 前的数）。",
+    "answer": "14/3",
+    "solution": "l = 120π×7/180 = 14/3π"
+  },
+  {
+    "grade": 9,
+    "question": "两个相似三角形的相似比为 2:3，小三角形面积为 48，求大三角形面积。",
+    "answer": "108",
+    "solution": "面积比 = 4:9，S大 = 48×9/4 = 108"
+  },
+  {
+    "grade": 9,
+    "question": "二次函数 y = -3(x - 3)² + 1 的最大值是多少？",
+    "answer": "1",
+    "solution": "开口向下，顶点 (3, 1)，最大值为 1"
+  },
+  {
+    "grade": 9,
+    "question": "点 A(m, 2) 在反比例函数 y = 18/x 的图象上，求 m。",
+    "answer": "9",
+    "solution": "2 = 18/m，m = 9"
+  },
+  {
+    "grade": 7,
+    "question": "解方程：5x + 7 = 4x + 8",
+    "answer": "1",
+    "solution": "移项得 1x = 1，x = 1"
+  },
+  {
+    "grade": 7,
+    "question": "已知 |x - 7| = 10，求 x 的所有可能值之和。",
+    "answer": "14",
+    "solution": "x = 7±10，即 17 和 -3，和为 14"
+  },
+  {
+    "grade": 7,
+    "question": "数轴上点 A 表示的数为 -3，点 P 从 A 出发以每秒 5 个单位的速度向右运动，3 秒后点 P 表示的数是多少？",
+    "answer": "12",
+    "solution": "-3 + 5×3 = 12"
+  },
+  {
+    "grade": 7,
+    "question": "∠α 的余角为 24°，则 ∠α 的补角是多少度？（只填数字）",
+    "answer": "114",
+    "solution": "∠α = 90°-24° = 66°，补角 = 180°-66° = 114°"
+  },
+  {
+    "grade": 7,
+    "question": "计算：(-6)² - 6 × 7 + |6| × 0 的结果。",
+    "answer": "-6",
+    "solution": "36 - 42 + 0 = -6"
+  },
+  {
+    "grade": 7,
+    "question": "甲、乙两车同时从 A 地出发同向而行，甲速 49 km/h，乙速 68 km/h，2 小时后两车相距多少千米？",
+    "answer": "38",
+    "solution": "速度差 19 km/h × 2 h = 38 km"
+  },
+  {
+    "grade": 7,
+    "question": "观察规律：9，13，17，21，… 第 10 个数是多少？",
+    "answer": "45",
+    "solution": "第 n 个数为 4n+5，n=10 时为 45"
+  },
+  {
+    "grade": 7,
+    "question": "线段 AB 长 18 cm，点 C 在 AB 上且 AC:CB = 1:1，求 AC 的长（cm）。",
+    "answer": "9",
+    "solution": "AC = 18×1/2 = 9 cm"
+  },
+  {
+    "grade": 8,
+    "question": "直角三角形两条直角边分别为 18 和 24，斜边长是多少？",
+    "answer": "30",
+    "solution": "√(18²+24²) = 30"
+  },
+  {
+    "grade": 8,
+    "question": "解分式方程：1/(x-5) = 1",
+    "answer": "6",
+    "solution": "x-5 = 1，x = 6（经检验是原方程的解）"
+  },
+  {
+    "grade": 8,
+    "question": "一次函数 y = 1x + 1 的图象与 x 轴、y 轴分别交于 A、B 两点，求三角形 AOB 的面积（O 为原点）。",
+    "answer": "1/2",
+    "solution": "A(-1,0)，B(0,1)，S = ½×1×1 = 1/2"
+  },
+  {
+    "grade": 8,
+    "question": "化简：√(288) - √8 × 5（结果保留根号，写成 m√8 的形式，只填 m）",
+    "answer": "1",
+    "solution": "√(288) = 6√8，6√8 - 5√8 = √8，m = 1"
+  },
+  {
+    "grade": 8,
+    "question": "已知 x + y = 10，xy = 24，且 x > y，求 x - y。",
+    "answer": "2",
+    "solution": "(x-y)² = (x+y)²-4xy = 100-96 = 4，x-y = 2"
+  },
+  {
+    "grade": 8,
+    "question": "正方形 ABCD 边长为 2，E 为 CD 中点，连接 BE。已知 BE = 2√5/2，求 BE² 的值。",
+    "answer": "5",
+    "solution": "CE = 2/2，BE² = 2²+(2/2)² = 5"
+  },
+  {
+    "grade": 8,
+    "question": "反比例函数 y = 8/x 的图象经过点 (6, m)，求 m。",
+    "answer": "4/3",
+    "solution": "m = 8/6 = 4/3"
+  },
+  {
+    "grade": 9,
+    "question": "二次函数 y = x² - 8x + 4 的顶点坐标为 (h, k)，求 h + k。",
+    "answer": "-16",
+    "solution": "h = -4，k = -12，h+k = -16"
+  },
+  {
+    "grade": 9,
+    "question": "设 x₁、x₂ 是方程 x² - 7x + 3 = 0 的两根，求 x₁² + x₂² 的值。",
+    "answer": "43",
+    "solution": "x₁²+x₂² = (x₁+x₂)²-2x₁x₂ = 49-6 = 43"
+  },
+  {
+    "grade": 9,
+    "question": "袋中有 2 个红球、4 个白球，不放回地摸出 2 个球，求两个都是红球的概率。",
+    "answer": "1/15",
+    "solution": "P = (2/6)×(1/5) = 1/15"
+  },
+  {
+    "grade": 9,
+    "question": "半径为 8 的圆中，45° 的圆心角所对的弧长是 45π·8/180，化简后填系数（π 前的数）。",
+    "answer": "2",
+    "solution": "l = 45π×8/180 = 2π"
+  },
+  {
+    "grade": 9,
+    "question": "两个相似三角形的相似比为 3:4，小三角形面积为 99，求大三角形面积。",
+    "answer": "176",
+    "solution": "面积比 = 9:16，S大 = 99×16/9 = 176"
+  },
+  {
+    "grade": 9,
+    "question": "二次函数 y = -(x - 5)² + 1 的最大值是多少？",
+    "answer": "1",
+    "solution": "开口向下，顶点 (5, 1)，最大值为 1"
+  },
+  {
+    "grade": 7,
+    "question": "解方程：3x + 16 = 2x + 4",
+    "answer": "-12",
+    "solution": "移项得 1x = -12，x = -12"
+  },
+  {
+    "grade": 7,
+    "question": "已知 |x - 4| = 9，求 x 的所有可能值之和。",
+    "answer": "8",
+    "solution": "x = 4±9，即 13 和 -5，和为 8"
+  },
+  {
+    "grade": 7,
+    "question": "数轴上点 A 表示的数为 -6，点 P 从 A 出发以每秒 2 个单位的速度向右运动，5 秒后点 P 表示的数是多少？",
+    "answer": "4",
+    "solution": "-6 + 2×5 = 4"
+  },
+  {
+    "grade": 7,
+    "question": "∠α 的余角为 52°，则 ∠α 的补角是多少度？（只填数字）",
+    "answer": "142",
+    "solution": "∠α = 90°-52° = 38°，补角 = 180°-38° = 142°"
+  },
+  {
+    "grade": 7,
+    "question": "计算：(-6)² - 5 × 3 + |-1| × 0 的结果。",
+    "answer": "21",
+    "solution": "36 - 15 + 0 = 21"
+  },
+  {
+    "grade": 7,
+    "question": "甲、乙两车同时从 A 地出发同向而行，甲速 56 km/h，乙速 72 km/h，2 小时后两车相距多少千米？",
+    "answer": "32",
+    "solution": "速度差 16 km/h × 2 h = 32 km"
+  },
+  {
+    "grade": 7,
+    "question": "观察规律：9，14，19，24，… 第 10 个数是多少？",
+    "answer": "54",
+    "solution": "第 n 个数为 5n+4，n=10 时为 54"
+  },
+  {
+    "grade": 7,
+    "question": "线段 AB 长 10 cm，点 C 在 AB 上且 AC:CB = 2:3，求 AC 的长（cm）。",
+    "answer": "4",
+    "solution": "AC = 10×2/5 = 4 cm"
+  },
+  {
+    "grade": 8,
+    "question": "直角三角形两条直角边分别为 27 和 36，斜边长是多少？",
+    "answer": "45",
+    "solution": "√(27²+36²) = 45"
+  },
+  {
+    "grade": 8,
+    "question": "先因式分解再求值：x² - 6x + 9，其中 x = 4。",
+    "answer": "1",
+    "solution": "(x-3)(x-3) = (4-3)(4-3) = 1"
+  },
+  {
+    "grade": 8,
+    "question": "化简：√(20) - √5 × 1（结果保留根号，写成 m√5 的形式，只填 m）",
+    "answer": "1",
+    "solution": "√(20) = 2√5，2√5 - 1√5 = √5，m = 1"
+  },
+  {
+    "grade": 8,
+    "question": "已知 x + y = 8，xy = 16，且 x > y，求 x - y。",
+    "answer": "0",
+    "solution": "(x-y)² = (x+y)²-4xy = 64-64 = 0，x-y = 0"
+  },
+  {
+    "grade": 8,
+    "question": "反比例函数 y = 3/x 的图象经过点 (5, m)，求 m。",
+    "answer": "3/5",
+    "solution": "m = 3/5 = 3/5"
+  },
+  {
+    "grade": 9,
+    "question": "二次函数 y = 2x² - 12x + 6 的顶点坐标为 (h, k)，求 h + k。",
+    "answer": "-15",
+    "solution": "h = -3，k = -12，h+k = -15"
+  },
+  {
+    "grade": 9,
+    "question": "设 x₁、x₂ 是方程 x² - 3x + 5 = 0 的两根，求 x₁² + x₂² 的值。",
+    "answer": "-1",
+    "solution": "x₁²+x₂² = (x₁+x₂)²-2x₁x₂ = 9-10 = -1"
+  },
+  {
+    "grade": 9,
+    "question": "半径为 9 的圆中，30° 的圆心角所对的弧长是 30π·9/180，化简后填系数（π 前的数）。",
+    "answer": "3/2",
+    "solution": "l = 30π×9/180 = 3/2π"
+  },
+  {
+    "grade": 9,
+    "question": "两个相似三角形的相似比为 3:4，小三角形面积为 45，求大三角形面积。",
+    "answer": "80",
+    "solution": "面积比 = 9:16，S大 = 45×16/9 = 80"
+  },
+  {
+    "grade": 9,
+    "question": "二次函数 y = -2(x - 1)² + 1 的最大值是多少？",
+    "answer": "1",
+    "solution": "开口向下，顶点 (1, 1)，最大值为 1"
+  },
+  {
+    "grade": 7,
+    "question": "解方程：7x + 7 = 2x + 1",
+    "answer": "-6/5",
+    "solution": "移项得 5x = -6，x = -6/5"
+  },
+  {
+    "grade": 7,
+    "question": "已知 |x - 4| = 8，求 x 的所有可能值之和。",
+    "answer": "8",
+    "solution": "x = 4±8，即 12 和 -4，和为 8"
+  },
+  {
+    "grade": 7,
+    "question": "数轴上点 A 表示的数为 -8，点 P 从 A 出发以每秒 5 个单位的速度向右运动，8 秒后点 P 表示的数是多少？",
+    "answer": "32",
+    "solution": "-8 + 5×8 = 32"
+  },
+  {
+    "grade": 7,
+    "question": "∠α 的余角为 56°，则 ∠α 的补角是多少度？（只填数字）",
+    "answer": "146",
+    "solution": "∠α = 90°-56° = 34°，补角 = 180°-34° = 146°"
+  },
+  {
+    "grade": 7,
+    "question": "计算：(-2)² - 4 × 9 + |32| × 0 的结果。",
+    "answer": "-32",
+    "solution": "4 - 36 + 0 = -32"
+  },
+  {
+    "grade": 7,
+    "question": "甲、乙两车同时从 A 地出发同向而行，甲速 51 km/h，乙速 61 km/h，5 小时后两车相距多少千米？",
+    "answer": "50",
+    "solution": "速度差 10 km/h × 5 h = 50 km"
+  },
+  {
+    "grade": 7,
+    "question": "观察规律：4，6，8，10，… 第 10 个数是多少？",
+    "answer": "22",
+    "solution": "第 n 个数为 2n+2，n=10 时为 22"
+  },
+  {
+    "grade": 7,
+    "question": "线段 AB 长 14 cm，点 C 在 AB 上且 AC:CB = 1:2，求 AC 的长（cm）。",
+    "answer": "14/3",
+    "solution": "AC = 14×1/3 = 14/3 cm"
+  },
+  {
+    "grade": 8,
+    "question": "直角三角形两条直角边分别为 10 和 24，斜边长是多少？",
+    "answer": "26",
+    "solution": "√(10²+24²) = 26"
+  },
+  {
+    "grade": 8,
+    "question": "先因式分解再求值：x² - 7x + 10，其中 x = 4。",
+    "answer": "-2",
+    "solution": "(x-2)(x-5) = (4-2)(4-5) = -2"
+  },
+  {
+    "grade": 8,
+    "question": "一次函数 y = 3x + 5 的图象与 x 轴、y 轴分别交于 A、B 两点，求三角形 AOB 的面积（O 为原点）。",
+    "answer": "25/6",
+    "solution": "A(-5/3,0)，B(0,5)，S = ½×5/3×5 = 25/6"
+  },
+  {
+    "grade": 8,
+    "question": "化简：√(24) - √6 × 1（结果保留根号，写成 m√6 的形式，只填 m）",
+    "answer": "1",
+    "solution": "√(24) = 2√6，2√6 - 1√6 = √6，m = 1"
+  },
+  {
+    "grade": 8,
+    "question": "反比例函数 y = 6/x 的图象经过点 (4, m)，求 m。",
+    "answer": "3/2",
+    "solution": "m = 6/4 = 3/2"
+  },
+  {
+    "grade": 9,
+    "question": "二次函数 y = x² - 4x + 1 的顶点坐标为 (h, k)，求 h + k。",
+    "answer": "-5",
+    "solution": "h = -2，k = -3，h+k = -5"
+  },
+  {
+    "grade": 9,
+    "question": "设 x₁、x₂ 是方程 x² - 8x + 4 = 0 的两根，求 x₁² + x₂² 的值。",
+    "answer": "56",
+    "solution": "x₁²+x₂² = (x₁+x₂)²-2x₁x₂ = 64-8 = 56"
+  },
+  {
+    "grade": 9,
+    "question": "袋中有 3 个红球、4 个白球，不放回地摸出 2 个球，求两个都是红球的概率。",
+    "answer": "1/7",
+    "solution": "P = (3/7)×(2/6) = 1/7"
+  },
+  {
+    "grade": 9,
+    "question": "半径为 4 的圆中，120° 的圆心角所对的弧长是 120π·4/180，化简后填系数（π 前的数）。",
+    "answer": "8/3",
+    "solution": "l = 120π×4/180 = 8/3π"
+  },
+  {
+    "grade": 9,
+    "question": "两个相似三角形的相似比为 2:3，小三角形面积为 12，求大三角形面积。",
+    "answer": "27",
+    "solution": "面积比 = 4:9，S大 = 12×9/4 = 27"
+  },
+  {
+    "grade": 9,
+    "question": "二次函数 y = -2(x - 5)² + 9 的最大值是多少？",
+    "answer": "9",
+    "solution": "开口向下，顶点 (5, 9)，最大值为 9"
+  },
+  {
+    "grade": 9,
+    "question": "点 A(m, 2) 在反比例函数 y = 16/x 的图象上，求 m。",
+    "answer": "8",
+    "solution": "2 = 16/m，m = 8"
+  }
+]

@@ -1,0 +1,21 @@
+# 学霸试卷与练习
+# Python 风格预设，mod=py，版本 ver=3
+# e=学习：没写分类的任务自动归到「学习」
+
+mod=py
+ver=3
+ext=true
+e=学习
+name=学霸试卷
+author=CZY
+dup=ask
+
+
+preset("学霸试卷") {
+
+    task(title="数学学霸试卷U3A", subject="数学")
+    task(title="英语学霸试卷U3", subject="英语")
+    task(title="英语学霸听力附册U3", subject="英语")
+    task(title="小题狂做 · 语文附册周周练U2-1", subject="语文")
+
+}
