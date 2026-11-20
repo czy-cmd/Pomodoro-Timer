@@ -1,0 +1,14 @@
+window_title:"超级学习 - 官方fqm"
+title:"看到标题，我在学习"
+beta:"fqm处于测试状态，请做好备份~"
+author:"CZY"
+desc: "我要学习！谁能阻我！"
+
+study_time:720
+break_time:300
+long_break_time:600
+simple_pomodoro_time:720
+
+color_primary:"#1abc9c"
+color_accent:"#48c9b0"
+color_timer:"#117a65"

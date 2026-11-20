@@ -1,0 +1,14 @@
+window_title:"深度专注 - 官方fqm"
+title:"深度专注"
+beta:"fqm处于测试状态，请做好备份~"
+author:"CZY"
+desc: "让心流成为主旋律~"
+
+study_time:30
+break_time:10
+long_break_time:25
+simple_pomodoro_time:45
+
+color_primary:"#e74c3c"
+color_accent:"#e67e22"
+color_timer:"#8b1e1e"
